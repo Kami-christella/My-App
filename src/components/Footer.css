@@ -1,0 +1,17 @@
+/* Footer styles */
+footer {
+    background-color: #524b6e; 
+    padding: 20px; 
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+}
+
+/* Social media icons styles */
+.social-media {
+    margin-top: 10px;
+}
+.social-media a {
+    margin-right: 10px; 
+    
+}
